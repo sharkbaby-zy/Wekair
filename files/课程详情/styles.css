@@ -98,8 +98,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:193px;
-  height:29px;
+  width:317px;
+  height:61px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -116,8 +116,8 @@
   position:absolute;
   left:577px;
   top:137px;
-  width:193px;
-  height:29px;
+  width:317px;
+  height:61px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
@@ -127,8 +127,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:193px;
-  white-space:nowrap;
+  width:317px;
+  word-wrap:break-word;
 }
 #u715_img {
   position:absolute;
@@ -409,7 +409,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:240px;
+  width:185px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -426,7 +426,7 @@
   position:absolute;
   left:50px;
   top:577px;
-  width:240px;
+  width:185px;
   height:22px;
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
@@ -436,15 +436,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:240px;
+  width:185px;
   white-space:nowrap;
 }
 #u735_div {
   position:absolute;
   left:0px;
   top:0px;
-  width:225px;
-  height:19px;
+  width:203px;
+  height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -455,27 +455,25 @@
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:16px;
   color:#999999;
 }
 #u735 {
   position:absolute;
   left:70px;
   top:614px;
-  width:225px;
-  height:19px;
+  width:203px;
+  height:22px;
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:16px;
   color:#999999;
 }
 #u735_div.mouseOver {
   position:absolute;
   left:0px;
   top:0px;
-  width:225px;
-  height:19px;
+  width:203px;
+  height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -486,7 +484,6 @@
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:16px;
   color:#999999;
 }
 #u735.mouseOver {
@@ -495,7 +492,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:225px;
+  width:203px;
   white-space:nowrap;
 }
 #u737_div {
@@ -532,7 +529,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:295px;
+  width:253px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -549,7 +546,7 @@
   position:absolute;
   left:43px;
   top:692px;
-  width:295px;
+  width:253px;
   height:22px;
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
@@ -559,15 +556,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:295px;
+  width:253px;
   white-space:nowrap;
 }
 #u741_div {
   position:absolute;
   left:0px;
   top:0px;
-  width:257px;
-  height:19px;
+  width:203px;
+  height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -578,27 +575,25 @@
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:16px;
   color:#999999;
 }
 #u741 {
   position:absolute;
   left:63px;
   top:729px;
-  width:257px;
-  height:19px;
+  width:203px;
+  height:22px;
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:16px;
   color:#999999;
 }
 #u741_div.mouseOver {
   position:absolute;
   left:0px;
   top:0px;
-  width:257px;
-  height:19px;
+  width:203px;
+  height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -609,7 +604,6 @@
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:16px;
   color:#999999;
 }
 #u741.mouseOver {
@@ -618,7 +612,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:257px;
+  width:203px;
   white-space:nowrap;
 }
 #u743_div {
@@ -655,7 +649,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:240px;
+  width:271px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -672,7 +666,7 @@
   position:absolute;
   left:43px;
   top:775px;
-  width:240px;
+  width:271px;
   height:22px;
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
@@ -682,15 +676,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:240px;
+  width:271px;
   white-space:nowrap;
 }
 #u747_div {
   position:absolute;
   left:0px;
   top:0px;
-  width:209px;
-  height:19px;
+  width:203px;
+  height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -701,27 +695,25 @@
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:16px;
   color:#999999;
 }
 #u747 {
   position:absolute;
   left:63px;
   top:812px;
-  width:209px;
-  height:19px;
+  width:203px;
+  height:22px;
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:16px;
   color:#999999;
 }
 #u747_div.mouseOver {
   position:absolute;
   left:0px;
   top:0px;
-  width:209px;
-  height:19px;
+  width:203px;
+  height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -732,7 +724,6 @@
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:16px;
   color:#999999;
 }
 #u747.mouseOver {
@@ -741,7 +732,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:209px;
+  width:203px;
   white-space:nowrap;
 }
 #u749_div {
@@ -778,7 +769,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:167px;
+  width:271px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -795,7 +786,7 @@
   position:absolute;
   left:43px;
   top:855px;
-  width:167px;
+  width:271px;
   height:22px;
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
@@ -805,15 +796,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:167px;
+  width:271px;
   white-space:nowrap;
 }
 #u753_div {
   position:absolute;
   left:0px;
   top:0px;
-  width:145px;
-  height:19px;
+  width:203px;
+  height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -824,27 +815,25 @@
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:16px;
   color:#999999;
 }
 #u753 {
   position:absolute;
   left:63px;
   top:892px;
-  width:145px;
-  height:19px;
+  width:203px;
+  height:22px;
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:16px;
   color:#999999;
 }
 #u753_div.mouseOver {
   position:absolute;
   left:0px;
   top:0px;
-  width:145px;
-  height:19px;
+  width:203px;
+  height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -855,7 +844,6 @@
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:16px;
   color:#999999;
 }
 #u753.mouseOver {
@@ -864,7 +852,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:145px;
+  width:203px;
   white-space:nowrap;
 }
 #u755_div {
@@ -884,8 +872,8 @@
 }
 #u755 {
   position:absolute;
-  left:208px;
-  top:893px;
+  left:276px;
+  top:892px;
   width:66px;
   height:18px;
   color:#CCCCCC;
@@ -901,7 +889,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:167px;
+  width:271px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -918,7 +906,7 @@
   position:absolute;
   left:43px;
   top:933px;
-  width:167px;
+  width:271px;
   height:22px;
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
@@ -928,14 +916,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:167px;
+  width:271px;
   white-space:nowrap;
 }
 #u759_div {
   position:absolute;
   left:0px;
   top:0px;
-  width:145px;
+  width:113px;
   height:19px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -954,7 +942,7 @@
   position:absolute;
   left:63px;
   top:970px;
-  width:145px;
+  width:113px;
   height:19px;
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
@@ -966,7 +954,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:145px;
+  width:113px;
   height:19px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -987,7 +975,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:145px;
+  width:113px;
   white-space:nowrap;
 }
 #u761_div {
@@ -1007,8 +995,8 @@
 }
 #u761 {
   position:absolute;
-  left:208px;
-  top:971px;
+  left:186px;
+  top:970px;
   width:66px;
   height:18px;
   color:#CCCCCC;
@@ -4004,7 +3992,7 @@
 #u953 {
   position:absolute;
   left:605px;
-  top:172px;
+  top:221px;
   width:33px;
   height:20px;
 }
@@ -4153,7 +4141,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:162px;
+  width:44px;
   height:18px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -4168,7 +4156,7 @@
   position:absolute;
   left:732px;
   top:570px;
-  width:162px;
+  width:44px;
   height:18px;
   color:#0099CC;
 }
@@ -4176,7 +4164,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:162px;
+  width:44px;
   white-space:nowrap;
 }
 #u965_img {
@@ -4189,7 +4177,7 @@
 #u965 {
   position:absolute;
   left:577px;
-  top:172px;
+  top:221px;
   width:18px;
   height:20px;
 }
@@ -4363,7 +4351,7 @@
 #u977 {
   position:absolute;
   left:577px;
-  top:212px;
+  top:261px;
   width:174px;
   height:18px;
   color:#CCCCCC;
@@ -4639,7 +4627,7 @@
 #u997 {
   position:absolute;
   left:577px;
-  top:201px;
+  top:250px;
   width:297px;
   height:1px;
 }
@@ -4999,8 +4987,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:225px;
-  height:19px;
+  width:203px;
+  height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -5011,27 +4999,25 @@
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:16px;
   color:#999999;
 }
 #u1026 {
   position:absolute;
   left:70px;
   top:651px;
-  width:225px;
-  height:19px;
+  width:203px;
+  height:22px;
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:16px;
   color:#999999;
 }
 #u1026_div.mouseOver {
   position:absolute;
   left:0px;
   top:0px;
-  width:225px;
-  height:19px;
+  width:203px;
+  height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -5042,7 +5028,6 @@
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:16px;
   color:#999999;
 }
 #u1026.mouseOver {
@@ -5051,7 +5036,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:225px;
+  width:203px;
   white-space:nowrap;
 }
 #u1028_div {
